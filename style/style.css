@@ -7,7 +7,7 @@ body {
     height: 100vh;
     margin: 0;
     /* background: url('https://www.canva.com/design/DAGp0a-Kxrg/bJKWz_AI0kH9yEeikpxW3w/edit?utm_content=DAGp0a-Kxrg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton') no-repeat center center; */
-    background: url('/imgs/blue-whale.jpg') no-repeat center center;
+    background: url('imgs/blue-whale.jpg') no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
     font-family: "Faculty Glyphic", 'Arial',sans-serif;
